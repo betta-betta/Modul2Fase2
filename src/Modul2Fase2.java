@@ -23,7 +23,7 @@ public class Modul2Fase2 {
 				else if (lletra.equals('1')||lletra.equals('2')||lletra.equals('3')||lletra.equals('4')||
 							lletra.equals('5')||lletra.equals('6')||lletra.equals('7')||lletra.equals('8')||
 							lletra.equals('9')||lletra.equals('0')) {
-						System.out.println("Els noms no  tenen números");}
+						System.out.println("Els noms de persones no contenen números");}
 				else	
 			
 			{
